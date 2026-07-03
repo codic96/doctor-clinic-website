@@ -8,7 +8,7 @@ Built with clean HTML, CSS, and Vanilla JavaScript, this project offers a profes
 
 ## 📸 Preview
 
-![Website Preview](preview.png)
+![Website Preview](https://6a47a41a05e6c30aa039936a--super-semolina-ee7191.netlify.app/)
 
 ---
 
